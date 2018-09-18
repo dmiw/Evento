@@ -1,0 +1,16 @@
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.deps.json
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.runtimeconfig.json
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.runtimeconfig.dev.json
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.dll
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.pdb
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Core.dll
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Infrastructure.dll
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Infrastructure.pdb
+D:\coding\aspnetcore\Evento\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Core.pdb
+D:\coding\aspnetcore\Evento\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.csprojAssemblyReference.cache
+D:\coding\aspnetcore\Evento\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.csproj.CoreCompileInputs.cache
+D:\coding\aspnetcore\Evento\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.AssemblyInfoInputs.cache
+D:\coding\aspnetcore\Evento\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.AssemblyInfo.cs
+D:\coding\aspnetcore\Evento\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.csproj.CopyComplete
+D:\coding\aspnetcore\Evento\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.dll
+D:\coding\aspnetcore\Evento\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.pdb
